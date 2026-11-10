@@ -1,27 +1,19 @@
-# practice-repo
+# practice repo
 
-This is a repository for practicing the GitHub workflow!
+This is a repository for practicing the GitHub workflow.
 
-## About
+## Purpose
 
-The goal of this project is to go through the full GitHub collaboration cycle step by step:
+This repository was created to learn how collaboration on GitHub works in practice: tracking a task with an issue, making changes in a separate branch, and merging them through a pull request.
 
-1. Create a repository
-2. Open an issue
-3. Create a new branch and edit a file
-4. Open a pull request linked to the issue
-5. Merge the pull request
+## What was done
 
-## Workflow Practiced
-
-| Step | Description |
-|------|-------------|
-| Repository | Created a public repo with a README |
-| Issue | Described the task to be done |
-| Branch | Made changes in a separate branch (`update-readme`) |
-| Pull Request | Proposed the changes and linked them with `Closes #1` |
-| Merge | Reviewed and merged the PR into `main` |
+- Created a public repository with a README
+- Opened an issue describing the task
+- Created a new branch and edited the README
+- Opened a pull request that closes the issue
+- Merged the pull request into the main branch
 
 ## Author
 
-Dariga Beisenbay — [GitHub](https://github.com/darigabeisenbay)
+Dariga Beisenbay ([@darigabeisenbay](https://github.com/darigabeisenbay))
